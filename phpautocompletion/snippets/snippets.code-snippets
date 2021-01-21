@@ -1,0 +1,21 @@
+{
+    "Php Tag Completion": {
+        "prefix": "<?php",
+        "body": [
+            "<?php",
+            "   ${0}",
+            "?>"
+        ],
+        "description": "Php Tag Auto Complete"
+    },
+    "Html Tag Completion": {
+        "prefix": "<",
+        "body": "<${1:tagName}></${1}>",
+        "description": "Html Tag Completion"
+    },
+    "Variable Completion": {
+        "prefix": "$",
+        "body": "$${1:variableName} = ${2:value};${0}",
+        "description": "Variable Completion"
+    }
+}
