@@ -20,3 +20,8 @@ All notable changes to the "phpAutoCompletion" extension will be documented in t
 ## [1.0.3]
 
 - faster variable implementation.
+
+## [1.0.4]
+
+- fixed wrong tabulator
+- link to github

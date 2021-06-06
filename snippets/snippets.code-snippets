@@ -3,7 +3,7 @@
         "prefix": "<?php",
         "body": [
             "<?php",
-            "   ${0}",
+            "    ${0}",
             "?>"
         ],
         "description": "Php Tag Auto Complete"

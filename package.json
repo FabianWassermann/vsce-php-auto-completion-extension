@@ -2,15 +2,15 @@
 	"name": "phpautocompletion",
 	"displayName": "phpAutoCompletion",
 	"description": "Simple Php Completion",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"publisher": "F4Bz3",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/FabianWassermann/something"
+		"url": "https://github.com/FabianWassermann/phpAutoCompletion"
 	},
 	"icon": "icon.png",
 	"engines": {
-		"vscode": "^1.51.0"
+		"vscode": "^1.56.0"
 	},
 	"categories": [
 		"Snippets"
@@ -29,7 +29,7 @@
 	},
 	"__metadata": {
 		"id": "044acb18-edcf-471e-b7a3-b6a1f7c45f9a",
-		"publisherDisplayName": "FabianW",
+		"publisherDisplayName": "Wassermann F.",
 		"publisherId": "897adcb5-b241-42c5-94ac-b30eeae977bb"
 	}
 }
