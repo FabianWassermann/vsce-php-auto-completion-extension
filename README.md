@@ -28,6 +28,10 @@ Now they does with <.
 
 Let´s use the faster way to implement variables in php with $.
 
+### 1.0.4
+
+General Bugs got fixed
+
 -----------------------------------------------------------------------------------------------------------
 
 Hope you enjoy PHP now a little bit more.
