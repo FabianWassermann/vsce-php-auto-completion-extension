@@ -6,6 +6,10 @@ This is a simple php auto completion extension.
 
 - php tag completion
 - html tag completion(in .php files)
+- 
+## Donate
+
+<a href="https://www.buymeacoffee.com/F4Bz3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Known Issues
 
