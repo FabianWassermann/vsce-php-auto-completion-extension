@@ -3,6 +3,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 [![GitHub license](https://img.shields.io/github/license/FabianWassermann/phpAutoCompletion)](https://github.com/FabianWassermann/phpAutoCompletion/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/FabianWassermann/phpAutoCompletion)](https://GitHub.com/FabianWassermann/phpAutoCompletion/releases/)
+[![Only 32 Kb](https://img.shields.io/github/repo-size/fabianwassermann/phpAutoCompletion)](https://github.com/FabianWassermann/phpAutoCompletion/blob/master/)
 
 This is a simple php auto completion extension.
 
