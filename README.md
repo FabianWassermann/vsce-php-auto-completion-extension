@@ -5,9 +5,9 @@
 [![GitHub release](https://img.shields.io/github/release/FabianWassermann/vsce-php-auto-completion-extension)](https://GitHub.com/FabianWassermann/vsce-php-auto-completion-extension/releases/)
 [![Only 32 Kb](https://img.shields.io/github/repo-size/fabianwassermann/vsce-php-auto-completion-extension)](https://github.com/FabianWassermann/vsce-php-auto-completion-extension/blob/master/)
 
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/F4Bz3.vsce-php-auto-completion-extension.svg)](https://marketplace.visualstudio.com/items/F4Bz3.vsce-php-auto-completion-extension) 
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/F4Bz3.vsce-php-auto-completion-extension.svg)](https://marketplace.visualstudio.com/items/F4Bz3.vsce-php-auto-completion-extension)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/F4Bz3.vsce-php-auto-completion-extension.svg)](https://marketplace.visualstudio.com/items/F4Bz3.vsce-php-auto-completion-extension)
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/F4Bz3.phpautocompletion.svg)](https://marketplace.visualstudio.com/items/F4Bz3.phpautocompletion) 
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/F4Bz3.phpautocompletion.svg)](https://marketplace.visualstudio.com/items/F4Bz3.phpautocompletion)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/F4Bz3.phpautocompletion.svg)](https://marketplace.visualstudio.com/items/F4Bz3.phpautocompletion)
 
 This is a simple php auto completion / code snippet extension.
 
