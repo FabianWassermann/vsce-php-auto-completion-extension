@@ -13,9 +13,9 @@ This is a simple php auto completion / code snippet extension.
 
 ## Features
 
-- php tag completion
-- html tag completion
-- php variable assistant
+- php tag completion (```<?php```)
+- html tag completion (```<```)
+- php variable assistant (```$```)
 
 ## Donate
 
