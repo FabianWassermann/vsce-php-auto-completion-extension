@@ -24,7 +24,7 @@ This is a simple php auto completion / code snippet extension.
 
 ## Installing
 
-This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=F4Bz3.vsce-php-auto-completion-extension)
+This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=F4Bz3.phpautocompletion)
 
 ## What's new?
 Click here to go to the [Changelog](https://github.com/FabianWassermann/vsce-php-auto-completion-extension/blob/main/CHANGELOG.md)

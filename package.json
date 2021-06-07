@@ -1,8 +1,8 @@
 {
 	"name": "phpautocompletion",
-	"displayName": "phpAutoCompletion",
+	"displayName": "Php Auto Completion",
 	"description": "Simple Php Completion",
-	"version": "1.0.4",
+	"version": "1.1.1",
 	"publisher": "F4Bz3",
 	"repository": {
 		"type": "git",
