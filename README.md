@@ -1,7 +1,7 @@
 # phpAutoCompletion
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/FabianWassermann/phpAutoCompletion)](https://github.com/FabianWassermann/phpAutoCompletion/blob/master/LICENSE)
 
 This is a simple php auto completion extension.
 
