@@ -16,6 +16,7 @@ This is a simple php auto completion / code snippet extension.
 - php tag completion (```<?php```)
 - html tag completion (```<```)
 - php variable assistant (```$```)
+- php table echo dynamic (```!table```)
 
 ## Donate
 

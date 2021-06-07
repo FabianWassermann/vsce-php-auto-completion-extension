@@ -2,6 +2,10 @@
 
 All notable changes to the "phpAutoCompletion" extension will be documented in this file.
 
+# [1.1.0]
+
+- added ```!table``` feature that will generate a echo table tamplate. It can be used to generate a table dynamiclly.
+
 ## [1.0.4]
 
 - bug fixed tabulator
