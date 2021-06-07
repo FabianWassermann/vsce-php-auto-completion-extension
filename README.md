@@ -15,6 +15,7 @@ This is a simple php auto completion / code snippet extension.
 
 - php tag completion
 - html tag completion
+- php variable assistant
 
 ## Donate
 
