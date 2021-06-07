@@ -2,26 +2,21 @@
 
 All notable changes to the "phpAutoCompletion" extension will be documented in this file.
 
+## [1.0.4]
+
+- bug fixed tabulator
+
+## [1.0.3]
+
+- added php feature of faster variable implementation.
+- triggered by: ```$```
+
+## [1.0.1] - [1.0.2]
+
+- Html tag auto completion in php files.
+- added ```<``` tag completion feature.
 
 ## [1.0.0]
 
 - Initial release of php auto completion.
-- "<?php" + Enter
-
-## [1.0.1]
-
-- Html tag auto completion.
-- "<" + Enter
-
-## [1.0.2]
-
-- Bugfixes
-
-## [1.0.3]
-
-- faster variable implementation.
-
-## [1.0.4]
-
-- fixed wrong tabulator
-- link to github
+- added ```<?php``` tag completion feature.
