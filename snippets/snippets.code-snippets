@@ -1,5 +1,5 @@
 {
-    "Php Tag Completion": {
+    "php tag completion": {
         "prefix": "<?php",
         "body": [
             "<?php",
@@ -8,14 +8,29 @@
         ],
         "description": "Php Tag Auto Complete"
     },
-    "Html Tag Completion": {
+    "html tag completion": {
         "prefix": "<",
         "body": "<${1:tagName}></${1}>",
         "description": "Html Tag Completion"
     },
-    "Variable Completion": {
+    "variable completion": {
         "prefix": "$",
         "body": "$${1:variableName} = ${2:value};${0}",
         "description": "Variable Completion"
+    },
+    "simple table echo foreach": {
+        "prefix": "!table",
+        "body": [
+            "echo '<table>'",
+            "foreach ($${1:iterable_expression} as $${2:value}) {",
+            "    echo '<tr>'",
+            "    foreach ($${3:iterable_expression} as $${4:value}) {",
+            "        echo '<td>'.$${4}.'</td>'",
+            "    }",
+            "    echo '</tr>'",
+            "}",
+            "echo '</table>'"
+        ],
+        "description": "generates a simple table for php. use the foreach to generate a dynamic table. tip: use it in php tag."
     }
 }
