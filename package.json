@@ -6,7 +6,7 @@
 	"publisher": "F4Bz3",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/FabianWassermann/phpAutoCompletion"
+		"url": "https://github.com/FabianWassermann/vsce-php-auto-completion-extension"
 	},
 	"icon": "icon.png",
 	"engines": {
