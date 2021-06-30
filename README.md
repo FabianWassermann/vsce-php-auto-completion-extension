@@ -22,7 +22,7 @@ This is a simple php auto completion / code snippet extension.
 
 <a href="https://www.buymeacoffee.com/F4Bz3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-[![Send Crypto](https://img.shields.io/badge/send%20crypto-thanks!-blueviolet)](https://github.com/FabianWassermann/FabianWassermann/blob/main/Crypto-Addesses.md)
+[![Send Crypto](https://img.shields.io/badge/send%20crypto-thanks!-blueviolet)](https://github.com/FabianWassermann/FabianWassermann/blob/main/Crypto-Addresses.md)
 
 ## Installing
 
